@@ -8,3 +8,14 @@ int main()
 
     return 0;
 }
+
+/* #include<stdio.h>
+
+int main()
+{
+    char s[25];
+    gets(s);
+    printf("%s",s);
+
+    return 0;
+} */
