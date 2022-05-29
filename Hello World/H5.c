@@ -11,7 +11,7 @@ int main()
 {
     char a[25];
     printf(" Enter your string : ");
-    scanf("%[^\n]s",a);
+    scanf("%[^\n]s",a);    // gets(a);
     printf("                     %s",a);
    
     return 0;
